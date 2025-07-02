@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IFqTpgcEYC8N1HvKkV3xmyBkMcF6k7aQQ6cOqiiGlpA=",
+  "Hash": "9YMTi8BzxUo7PU0E4eoWtFAG734xZ/JbQfoUPaa5W9Y=",
   "Source": "MuseCafe",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "5jxm6hrl4z",
-      "Integrity": "Qe3wt38RwfYmAwhpERxhhlz0FWt5GSJcIE4C+hEVevg=",
+      "Fingerprint": "os7k7uo99p",
+      "Integrity": "iDx4RxZUDODWs3EvVn08rQhMNqKzhKl6+Y38/QfMZao=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -850,8 +850,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "mylgmm0nvv",
-      "Integrity": "LoFMpl+vKDFxcvZMh0reeI3gFmGO2pyK6uJ+3VjLEuQ=",
+      "Fingerprint": "xu5yxyapme",
+      "Integrity": "10QH5Pl+wGa81gIOEK77Z2vVJh9ochsI2ie+uI2NZdc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\MuseCafe.pdb"
@@ -871,8 +871,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "2yjxcz6n58",
-      "Integrity": "OvuW9PO3wpgtXEIGJXMSyqFUPdVy5u+tZo2Lanx1PpE=",
+      "Fingerprint": "6qt3hnocq7",
+      "Integrity": "PqYVjbXm1fV5J6U2Xl0TO8nDYWyQKgyD0MDImqwht6c=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\webcil\\MuseCafe.wasm"
@@ -4469,12 +4469,12 @@
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Drawing.Primitives.wasm"
     },
     {
-      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\0r2o8dku0j-mylgmm0nvv.gz",
+      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\0r2o8dku0j-xu5yxyapme.gz",
       "SourceId": "MuseCafe",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/MuseCafe#[.{fingerprint=mylgmm0nvv}]!.pdb.gz",
+      "RelativePath": "_framework/MuseCafe#[.{fingerprint=xu5yxyapme}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4483,8 +4483,8 @@
       "RelatedAsset": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MuseCafe.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "bbvbttesmb",
-      "Integrity": "RySYpcW0jNd5BZBSbaxTSfV855bplO3+rvCWZjANLAM=",
+      "Fingerprint": "kmyxnwtquu",
+      "Integrity": "dIvIys3jg2r4NqcV0CNAy+o2tkp3E9Ht7BSgHOR8vyI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MuseCafe.pdb"
@@ -6149,12 +6149,12 @@
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\bebbbb5d38-b8yt6kz56a.gz",
+      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\bebbbb5d38-fcn15wsgf5.gz",
       "SourceId": "MuseCafe",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=b8yt6kz56a}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=fcn15wsgf5}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6163,8 +6163,8 @@
       "RelatedAsset": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "z4vj6le1z9",
-      "Integrity": "Y37P0tWKOT5pWi9H5fROONS3dOSOn9Am7ymdNJ1l4G4=",
+      "Fingerprint": "94egzic3xt",
+      "Integrity": "ebaQXR5pfpkeBY7gM5ArQS4pcXy8790Wiw30Z0OdbkI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\index.html"
@@ -7010,12 +7010,12 @@
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.wasm"
     },
     {
-      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\ilc3usnwcq-vso8xsnfj0.gz",
+      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\ilc3usnwcq-2ucsvpjtgg.gz",
       "SourceId": "MuseCafe",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "css/app#[.{fingerprint=vso8xsnfj0}]?.css.gz",
+      "RelativePath": "css/app#[.{fingerprint=2ucsvpjtgg}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7024,8 +7024,8 @@
       "RelatedAsset": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "2ug7ziqk6k",
-      "Integrity": "BoT/fRMWcs/ugfLS+FR/nIkHhPUKQiNQ4u3F4tUX1cI=",
+      "Fingerprint": "2uceaxtz8s",
+      "Integrity": "ejYpqViRgsAeuIUsmx1Q2FBhdUhYYI91oEvNLFB2zMA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\css\\app.css"
@@ -7766,12 +7766,12 @@
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Reflection.Extensions.wasm"
     },
     {
-      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\npboho5k7z-2yjxcz6n58.gz",
+      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\npboho5k7z-6qt3hnocq7.gz",
       "SourceId": "MuseCafe",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/MuseCafe#[.{fingerprint=2yjxcz6n58}]!.wasm.gz",
+      "RelativePath": "_framework/MuseCafe#[.{fingerprint=6qt3hnocq7}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7780,8 +7780,8 @@
       "RelatedAsset": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MuseCafe.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "gnkfpb5rjs",
-      "Integrity": "tBQATfr28guoVpxqJ9IcIlOPCZ3kIGM4ZU5C880Gzcs=",
+      "Fingerprint": "g6gypz3pq7",
+      "Integrity": "mOR6qZbKWWe9LFrnxeHWhIQFLGjT8OJL/tXHqMMyrNI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MuseCafe.wasm"
@@ -8291,7 +8291,7 @@
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\r4viqd56af-5jxm6hrl4z.gz",
+      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\r4viqd56af-os7k7uo99p.gz",
       "SourceId": "MuseCafe",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\",
@@ -8305,8 +8305,8 @@
       "RelatedAsset": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "fp5ppntesc",
-      "Integrity": "3VGgJMBkXmzUpnXSpiAPqtmMWlGP0ahUlSA9QqhvdgE=",
+      "Fingerprint": "zsrnfc8f36",
+      "Integrity": "g0sac+W/SM0v0EVNCnZKS6caD00oRfJnfPAEaknNT9U=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -9565,8 +9565,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vso8xsnfj0",
-      "Integrity": "jxAxha03fcREORqx56zq+77IcckYEEPgYReZhRX6sJ0=",
+      "Fingerprint": "2ucsvpjtgg",
+      "Integrity": "+iKkXFPxzVl6G14cO97Rk66brd0kiE/NadyA40Ymg44=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\app.css"
@@ -9670,8 +9670,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b8yt6kz56a",
-      "Integrity": "i1hIWJ53Q4VcIbtEf+fEkuKPexbrDpWb0GckhB5j8Bc=",
+      "Fingerprint": "fcn15wsgf5",
+      "Integrity": "kW498FDUfFnIRaQOvctieY+KSF2ZIIB5IT92athbo6Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -10642,11 +10642,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Qe3wt38RwfYmAwhpERxhhlz0FWt5GSJcIE4C+hEVevg=\""
+          "Value": "\"iDx4RxZUDODWs3EvVn08rQhMNqKzhKl6+Y38/QfMZao=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:41:58 GMT"
+          "Value": "Wed, 02 Jul 2025 12:32:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10656,18 +10656,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Qe3wt38RwfYmAwhpERxhhlz0FWt5GSJcIE4C+hEVevg="
+          "Value": "sha256-iDx4RxZUDODWs3EvVn08rQhMNqKzhKl6+Y38/QfMZao="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\r4viqd56af-5jxm6hrl4z.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\r4viqd56af-os7k7uo99p.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081221572"
+          "Quality": "0.000081201786"
         }
       ],
       "ResponseHeaders": [
@@ -10677,15 +10677,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12311"
+          "Value": "12314"
         },
         {
           "Name": "ETag",
-          "Value": "\"3VGgJMBkXmzUpnXSpiAPqtmMWlGP0ahUlSA9QqhvdgE=\""
+          "Value": "\"g0sac+W/SM0v0EVNCnZKS6caD00oRfJnfPAEaknNT9U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:37:38 GMT"
+          "Value": "Wed, 02 Jul 2025 12:28:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10705,19 +10705,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Qe3wt38RwfYmAwhpERxhhlz0FWt5GSJcIE4C+hEVevg=\""
+          "Value": "W/\"iDx4RxZUDODWs3EvVn08rQhMNqKzhKl6+Y38/QfMZao=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Qe3wt38RwfYmAwhpERxhhlz0FWt5GSJcIE4C+hEVevg="
+          "Value": "sha256-iDx4RxZUDODWs3EvVn08rQhMNqKzhKl6+Y38/QfMZao="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\r4viqd56af-5jxm6hrl4z.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\r4viqd56af-os7k7uo99p.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10726,7 +10726,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12311"
+          "Value": "12314"
         },
         {
           "Name": "Content-Type",
@@ -10734,11 +10734,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3VGgJMBkXmzUpnXSpiAPqtmMWlGP0ahUlSA9QqhvdgE=\""
+          "Value": "\"g0sac+W/SM0v0EVNCnZKS6caD00oRfJnfPAEaknNT9U=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:37:38 GMT"
+          "Value": "Wed, 02 Jul 2025 12:28:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10756,7 +10756,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3VGgJMBkXmzUpnXSpiAPqtmMWlGP0ahUlSA9QqhvdgE="
+          "Value": "sha256-g0sac+W/SM0v0EVNCnZKS6caD00oRfJnfPAEaknNT9U="
         }
       ]
     },
@@ -21924,7 +21924,7 @@
       ]
     },
     {
-      "Route": "_framework/MuseCafe.2yjxcz6n58.wasm",
+      "Route": "_framework/MuseCafe.6qt3hnocq7.wasm",
       "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MuseCafe.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -21934,7 +21934,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14613"
+          "Value": "17173"
         },
         {
           "Name": "Content-Type",
@@ -21942,11 +21942,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OvuW9PO3wpgtXEIGJXMSyqFUPdVy5u+tZo2Lanx1PpE=\""
+          "Value": "\"PqYVjbXm1fV5J6U2Xl0TO8nDYWyQKgyD0MDImqwht6c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:37:35 GMT"
+          "Value": "Wed, 02 Jul 2025 12:32:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -21956,7 +21956,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2yjxcz6n58"
+          "Value": "6qt3hnocq7"
         },
         {
           "Name": "label",
@@ -21964,18 +21964,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OvuW9PO3wpgtXEIGJXMSyqFUPdVy5u+tZo2Lanx1PpE="
+          "Value": "sha256-PqYVjbXm1fV5J6U2Xl0TO8nDYWyQKgyD0MDImqwht6c="
         }
       ]
     },
     {
-      "Route": "_framework/MuseCafe.2yjxcz6n58.wasm",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\npboho5k7z-2yjxcz6n58.gz",
+      "Route": "_framework/MuseCafe.6qt3hnocq7.wasm",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\npboho5k7z-6qt3hnocq7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000167000668"
+          "Quality": "0.000152975371"
         }
       ],
       "ResponseHeaders": [
@@ -21985,15 +21985,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5987"
+          "Value": "6536"
         },
         {
           "Name": "ETag",
-          "Value": "\"tBQATfr28guoVpxqJ9IcIlOPCZ3kIGM4ZU5C880Gzcs=\""
+          "Value": "\"mOR6qZbKWWe9LFrnxeHWhIQFLGjT8OJL/tXHqMMyrNI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:37:38 GMT"
+          "Value": "Wed, 02 Jul 2025 12:32:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22013,13 +22013,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"OvuW9PO3wpgtXEIGJXMSyqFUPdVy5u+tZo2Lanx1PpE=\""
+          "Value": "W/\"PqYVjbXm1fV5J6U2Xl0TO8nDYWyQKgyD0MDImqwht6c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2yjxcz6n58"
+          "Value": "6qt3hnocq7"
         },
         {
           "Name": "label",
@@ -22027,13 +22027,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-OvuW9PO3wpgtXEIGJXMSyqFUPdVy5u+tZo2Lanx1PpE="
+          "Value": "sha256-PqYVjbXm1fV5J6U2Xl0TO8nDYWyQKgyD0MDImqwht6c="
         }
       ]
     },
     {
-      "Route": "_framework/MuseCafe.2yjxcz6n58.wasm.gz",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\npboho5k7z-2yjxcz6n58.gz",
+      "Route": "_framework/MuseCafe.6qt3hnocq7.wasm.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\npboho5k7z-6qt3hnocq7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22042,7 +22042,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5987"
+          "Value": "6536"
         },
         {
           "Name": "Content-Type",
@@ -22050,11 +22050,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tBQATfr28guoVpxqJ9IcIlOPCZ3kIGM4ZU5C880Gzcs=\""
+          "Value": "\"mOR6qZbKWWe9LFrnxeHWhIQFLGjT8OJL/tXHqMMyrNI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:37:38 GMT"
+          "Value": "Wed, 02 Jul 2025 12:32:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22072,7 +22072,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2yjxcz6n58"
+          "Value": "6qt3hnocq7"
         },
         {
           "Name": "label",
@@ -22080,168 +22080,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-tBQATfr28guoVpxqJ9IcIlOPCZ3kIGM4ZU5C880Gzcs="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MuseCafe.mylgmm0nvv.pdb",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MuseCafe.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "24064"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"LoFMpl+vKDFxcvZMh0reeI3gFmGO2pyK6uJ+3VjLEuQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:37:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mylgmm0nvv"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MuseCafe.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LoFMpl+vKDFxcvZMh0reeI3gFmGO2pyK6uJ+3VjLEuQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MuseCafe.mylgmm0nvv.pdb",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\0r2o8dku0j-mylgmm0nvv.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000055819146"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17914"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RySYpcW0jNd5BZBSbaxTSfV855bplO3+rvCWZjANLAM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:37:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"LoFMpl+vKDFxcvZMh0reeI3gFmGO2pyK6uJ+3VjLEuQ=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mylgmm0nvv"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MuseCafe.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-LoFMpl+vKDFxcvZMh0reeI3gFmGO2pyK6uJ+3VjLEuQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/MuseCafe.mylgmm0nvv.pdb.gz",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\0r2o8dku0j-mylgmm0nvv.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17914"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RySYpcW0jNd5BZBSbaxTSfV855bplO3+rvCWZjANLAM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:37:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mylgmm0nvv"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/MuseCafe.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RySYpcW0jNd5BZBSbaxTSfV855bplO3+rvCWZjANLAM="
+          "Value": "sha256-mOR6qZbKWWe9LFrnxeHWhIQFLGjT8OJL/tXHqMMyrNI="
         }
       ]
     },
@@ -22256,7 +22095,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24064"
+          "Value": "24548"
         },
         {
           "Name": "Content-Type",
@@ -22264,11 +22103,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"LoFMpl+vKDFxcvZMh0reeI3gFmGO2pyK6uJ+3VjLEuQ=\""
+          "Value": "\"10QH5Pl+wGa81gIOEK77Z2vVJh9ochsI2ie+uI2NZdc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:37:35 GMT"
+          "Value": "Wed, 02 Jul 2025 12:32:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22278,18 +22117,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LoFMpl+vKDFxcvZMh0reeI3gFmGO2pyK6uJ+3VjLEuQ="
+          "Value": "sha256-10QH5Pl+wGa81gIOEK77Z2vVJh9ochsI2ie+uI2NZdc="
         }
       ]
     },
     {
       "Route": "_framework/MuseCafe.pdb",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\0r2o8dku0j-mylgmm0nvv.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\0r2o8dku0j-xu5yxyapme.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000055819146"
+          "Quality": "0.000054291764"
         }
       ],
       "ResponseHeaders": [
@@ -22299,15 +22138,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17914"
+          "Value": "18418"
         },
         {
           "Name": "ETag",
-          "Value": "\"RySYpcW0jNd5BZBSbaxTSfV855bplO3+rvCWZjANLAM=\""
+          "Value": "\"dIvIys3jg2r4NqcV0CNAy+o2tkp3E9Ht7BSgHOR8vyI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:37:38 GMT"
+          "Value": "Wed, 02 Jul 2025 12:32:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22327,19 +22166,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"LoFMpl+vKDFxcvZMh0reeI3gFmGO2pyK6uJ+3VjLEuQ=\""
+          "Value": "W/\"10QH5Pl+wGa81gIOEK77Z2vVJh9ochsI2ie+uI2NZdc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-LoFMpl+vKDFxcvZMh0reeI3gFmGO2pyK6uJ+3VjLEuQ="
+          "Value": "sha256-10QH5Pl+wGa81gIOEK77Z2vVJh9ochsI2ie+uI2NZdc="
         }
       ]
     },
     {
       "Route": "_framework/MuseCafe.pdb.gz",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\0r2o8dku0j-mylgmm0nvv.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\0r2o8dku0j-xu5yxyapme.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22348,7 +22187,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "17914"
+          "Value": "18418"
         },
         {
           "Name": "Content-Type",
@@ -22356,11 +22195,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RySYpcW0jNd5BZBSbaxTSfV855bplO3+rvCWZjANLAM=\""
+          "Value": "\"dIvIys3jg2r4NqcV0CNAy+o2tkp3E9Ht7BSgHOR8vyI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:37:38 GMT"
+          "Value": "Wed, 02 Jul 2025 12:32:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22378,7 +22217,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RySYpcW0jNd5BZBSbaxTSfV855bplO3+rvCWZjANLAM="
+          "Value": "sha256-dIvIys3jg2r4NqcV0CNAy+o2tkp3E9Ht7BSgHOR8vyI="
         }
       ]
     },
@@ -22393,7 +22232,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14613"
+          "Value": "17173"
         },
         {
           "Name": "Content-Type",
@@ -22401,11 +22240,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OvuW9PO3wpgtXEIGJXMSyqFUPdVy5u+tZo2Lanx1PpE=\""
+          "Value": "\"PqYVjbXm1fV5J6U2Xl0TO8nDYWyQKgyD0MDImqwht6c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:37:35 GMT"
+          "Value": "Wed, 02 Jul 2025 12:32:20 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22415,18 +22254,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OvuW9PO3wpgtXEIGJXMSyqFUPdVy5u+tZo2Lanx1PpE="
+          "Value": "sha256-PqYVjbXm1fV5J6U2Xl0TO8nDYWyQKgyD0MDImqwht6c="
         }
       ]
     },
     {
       "Route": "_framework/MuseCafe.wasm",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\npboho5k7z-2yjxcz6n58.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\npboho5k7z-6qt3hnocq7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000167000668"
+          "Quality": "0.000152975371"
         }
       ],
       "ResponseHeaders": [
@@ -22436,15 +22275,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5987"
+          "Value": "6536"
         },
         {
           "Name": "ETag",
-          "Value": "\"tBQATfr28guoVpxqJ9IcIlOPCZ3kIGM4ZU5C880Gzcs=\""
+          "Value": "\"mOR6qZbKWWe9LFrnxeHWhIQFLGjT8OJL/tXHqMMyrNI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:37:38 GMT"
+          "Value": "Wed, 02 Jul 2025 12:32:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22464,19 +22303,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"OvuW9PO3wpgtXEIGJXMSyqFUPdVy5u+tZo2Lanx1PpE=\""
+          "Value": "W/\"PqYVjbXm1fV5J6U2Xl0TO8nDYWyQKgyD0MDImqwht6c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OvuW9PO3wpgtXEIGJXMSyqFUPdVy5u+tZo2Lanx1PpE="
+          "Value": "sha256-PqYVjbXm1fV5J6U2Xl0TO8nDYWyQKgyD0MDImqwht6c="
         }
       ]
     },
     {
       "Route": "_framework/MuseCafe.wasm.gz",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\npboho5k7z-2yjxcz6n58.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\npboho5k7z-6qt3hnocq7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22485,7 +22324,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5987"
+          "Value": "6536"
         },
         {
           "Name": "Content-Type",
@@ -22493,11 +22332,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tBQATfr28guoVpxqJ9IcIlOPCZ3kIGM4ZU5C880Gzcs=\""
+          "Value": "\"mOR6qZbKWWe9LFrnxeHWhIQFLGjT8OJL/tXHqMMyrNI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:37:38 GMT"
+          "Value": "Wed, 02 Jul 2025 12:32:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22515,7 +22354,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tBQATfr28guoVpxqJ9IcIlOPCZ3kIGM4ZU5C880Gzcs="
+          "Value": "sha256-mOR6qZbKWWe9LFrnxeHWhIQFLGjT8OJL/tXHqMMyrNI="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MuseCafe.xu5yxyapme.pdb",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\bin\\Debug\\net9.0\\wwwroot\\_framework\\MuseCafe.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"10QH5Pl+wGa81gIOEK77Z2vVJh9ochsI2ie+uI2NZdc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Jul 2025 12:32:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xu5yxyapme"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MuseCafe.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-10QH5Pl+wGa81gIOEK77Z2vVJh9ochsI2ie+uI2NZdc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MuseCafe.xu5yxyapme.pdb",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\0r2o8dku0j-xu5yxyapme.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000054291764"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18418"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dIvIys3jg2r4NqcV0CNAy+o2tkp3E9Ht7BSgHOR8vyI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Jul 2025 12:32:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"10QH5Pl+wGa81gIOEK77Z2vVJh9ochsI2ie+uI2NZdc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xu5yxyapme"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MuseCafe.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-10QH5Pl+wGa81gIOEK77Z2vVJh9ochsI2ie+uI2NZdc="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/MuseCafe.xu5yxyapme.pdb.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\0r2o8dku0j-xu5yxyapme.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dIvIys3jg2r4NqcV0CNAy+o2tkp3E9Ht7BSgHOR8vyI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Jul 2025 12:32:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xu5yxyapme"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/MuseCafe.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dIvIys3jg2r4NqcV0CNAy+o2tkp3E9Ht7BSgHOR8vyI="
         }
       ]
     },
@@ -71094,13 +71094,13 @@
       ]
     },
     {
-      "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\ilc3usnwcq-vso8xsnfj0.gz",
+      "Route": "css/app.2ucsvpjtgg.css",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\ilc3usnwcq-2ucsvpjtgg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000865800866"
+          "Quality": "0.000599880024"
         }
       ],
       "ResponseHeaders": [
@@ -71110,19 +71110,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1154"
+          "Value": "1666"
         },
         {
           "Name": "ETag",
-          "Value": "\"BoT/fRMWcs/ugfLS+FR/nIkHhPUKQiNQ4u3F4tUX1cI=\""
+          "Value": "\"ejYpqViRgsAeuIUsmx1Q2FBhdUhYYI91oEvNLFB2zMA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:41:41 GMT"
+          "Value": "Wed, 02 Jul 2025 12:31:57 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -71138,18 +71138,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"jxAxha03fcREORqx56zq+77IcckYEEPgYReZhRX6sJ0=\""
+          "Value": "W/\"+iKkXFPxzVl6G14cO97Rk66brd0kiE/NadyA40Ymg44=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "2ucsvpjtgg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-jxAxha03fcREORqx56zq+77IcckYEEPgYReZhRX6sJ0="
+          "Value": "sha256-+iKkXFPxzVl6G14cO97Rk66brd0kiE/NadyA40Ymg44="
         }
       ]
     },
     {
-      "Route": "css/app.css",
+      "Route": "css/app.2ucsvpjtgg.css",
       "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71159,7 +71167,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3326"
+          "Value": "8954"
         },
         {
           "Name": "Content-Type",
@@ -71167,121 +71175,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jxAxha03fcREORqx56zq+77IcckYEEPgYReZhRX6sJ0=\""
+          "Value": "\"+iKkXFPxzVl6G14cO97Rk66brd0kiE/NadyA40Ymg44=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:41:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-jxAxha03fcREORqx56zq+77IcckYEEPgYReZhRX6sJ0="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.css.gz",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\ilc3usnwcq-vso8xsnfj0.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1154"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BoT/fRMWcs/ugfLS+FR/nIkHhPUKQiNQ4u3F4tUX1cI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:41:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-BoT/fRMWcs/ugfLS+FR/nIkHhPUKQiNQ4u3F4tUX1cI="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.vso8xsnfj0.css",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\ilc3usnwcq-vso8xsnfj0.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000865800866"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1154"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BoT/fRMWcs/ugfLS+FR/nIkHhPUKQiNQ4u3F4tUX1cI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:41:41 GMT"
+          "Value": "Wed, 02 Jul 2025 12:31:57 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"jxAxha03fcREORqx56zq+77IcckYEEPgYReZhRX6sJ0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vso8xsnfj0"
+          "Value": "2ucsvpjtgg"
         },
         {
           "Name": "label",
@@ -71289,13 +71197,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-jxAxha03fcREORqx56zq+77IcckYEEPgYReZhRX6sJ0="
+          "Value": "sha256-+iKkXFPxzVl6G14cO97Rk66brd0kiE/NadyA40Ymg44="
         }
       ]
     },
     {
-      "Route": "css/app.vso8xsnfj0.css",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\css\\app.css",
+      "Route": "css/app.2ucsvpjtgg.css.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\ilc3usnwcq-2ucsvpjtgg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71304,7 +71212,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3326"
+          "Value": "1666"
         },
         {
           "Name": "Content-Type",
@@ -71312,56 +71220,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jxAxha03fcREORqx56zq+77IcckYEEPgYReZhRX6sJ0=\""
+          "Value": "\"ejYpqViRgsAeuIUsmx1Q2FBhdUhYYI91oEvNLFB2zMA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:41:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vso8xsnfj0"
-        },
-        {
-          "Name": "label",
-          "Value": "css/app.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-jxAxha03fcREORqx56zq+77IcckYEEPgYReZhRX6sJ0="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.vso8xsnfj0.css.gz",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\ilc3usnwcq-vso8xsnfj0.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1154"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"BoT/fRMWcs/ugfLS+FR/nIkHhPUKQiNQ4u3F4tUX1cI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:41:41 GMT"
+          "Value": "Wed, 02 Jul 2025 12:31:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71379,7 +71242,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "vso8xsnfj0"
+          "Value": "2ucsvpjtgg"
         },
         {
           "Name": "label",
@@ -71387,7 +71250,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-BoT/fRMWcs/ugfLS+FR/nIkHhPUKQiNQ4u3F4tUX1cI="
+          "Value": "sha256-ejYpqViRgsAeuIUsmx1Q2FBhdUhYYI91oEvNLFB2zMA="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\ilc3usnwcq-2ucsvpjtgg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000599880024"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1666"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ejYpqViRgsAeuIUsmx1Q2FBhdUhYYI91oEvNLFB2zMA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Jul 2025 12:31:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+iKkXFPxzVl6G14cO97Rk66brd0kiE/NadyA40Ymg44=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+iKkXFPxzVl6G14cO97Rk66brd0kiE/NadyA40Ymg44="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8954"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+iKkXFPxzVl6G14cO97Rk66brd0kiE/NadyA40Ymg44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Jul 2025 12:31:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+iKkXFPxzVl6G14cO97Rk66brd0kiE/NadyA40Ymg44="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\ilc3usnwcq-2ucsvpjtgg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ejYpqViRgsAeuIUsmx1Q2FBhdUhYYI91oEvNLFB2zMA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Jul 2025 12:31:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ejYpqViRgsAeuIUsmx1Q2FBhdUhYYI91oEvNLFB2zMA="
         }
       ]
     },
@@ -71720,13 +71720,13 @@
       ]
     },
     {
-      "Route": "index.b8yt6kz56a.html",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\bebbbb5d38-b8yt6kz56a.gz",
+      "Route": "index.fcn15wsgf5.html",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\bebbbb5d38-fcn15wsgf5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002079002079"
+          "Quality": "0.002016129032"
         }
       ],
       "ResponseHeaders": [
@@ -71736,15 +71736,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "480"
+          "Value": "495"
         },
         {
           "Name": "ETag",
-          "Value": "\"Y37P0tWKOT5pWi9H5fROONS3dOSOn9Am7ymdNJ1l4G4=\""
+          "Value": "\"ebaQXR5pfpkeBY7gM5ArQS4pcXy8790Wiw30Z0OdbkI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:24:45 GMT"
+          "Value": "Wed, 02 Jul 2025 10:21:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71764,13 +71764,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"i1hIWJ53Q4VcIbtEf+fEkuKPexbrDpWb0GckhB5j8Bc=\""
+          "Value": "W/\"kW498FDUfFnIRaQOvctieY+KSF2ZIIB5IT92athbo6Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b8yt6kz56a"
+          "Value": "fcn15wsgf5"
         },
         {
           "Name": "label",
@@ -71778,12 +71778,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-i1hIWJ53Q4VcIbtEf+fEkuKPexbrDpWb0GckhB5j8Bc="
+          "Value": "sha256-kW498FDUfFnIRaQOvctieY+KSF2ZIIB5IT92athbo6Y="
         }
       ]
     },
     {
-      "Route": "index.b8yt6kz56a.html",
+      "Route": "index.fcn15wsgf5.html",
       "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71793,7 +71793,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "987"
+          "Value": "940"
         },
         {
           "Name": "Content-Type",
@@ -71801,11 +71801,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"i1hIWJ53Q4VcIbtEf+fEkuKPexbrDpWb0GckhB5j8Bc=\""
+          "Value": "\"kW498FDUfFnIRaQOvctieY+KSF2ZIIB5IT92athbo6Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:24:45 GMT"
+          "Value": "Wed, 02 Jul 2025 10:21:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71815,7 +71815,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b8yt6kz56a"
+          "Value": "fcn15wsgf5"
         },
         {
           "Name": "label",
@@ -71823,13 +71823,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-i1hIWJ53Q4VcIbtEf+fEkuKPexbrDpWb0GckhB5j8Bc="
+          "Value": "sha256-kW498FDUfFnIRaQOvctieY+KSF2ZIIB5IT92athbo6Y="
         }
       ]
     },
     {
-      "Route": "index.b8yt6kz56a.html.gz",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\bebbbb5d38-b8yt6kz56a.gz",
+      "Route": "index.fcn15wsgf5.html.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\bebbbb5d38-fcn15wsgf5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71838,7 +71838,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "480"
+          "Value": "495"
         },
         {
           "Name": "Content-Type",
@@ -71846,11 +71846,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Y37P0tWKOT5pWi9H5fROONS3dOSOn9Am7ymdNJ1l4G4=\""
+          "Value": "\"ebaQXR5pfpkeBY7gM5ArQS4pcXy8790Wiw30Z0OdbkI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:24:45 GMT"
+          "Value": "Wed, 02 Jul 2025 10:21:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71868,7 +71868,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b8yt6kz56a"
+          "Value": "fcn15wsgf5"
         },
         {
           "Name": "label",
@@ -71876,18 +71876,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Y37P0tWKOT5pWi9H5fROONS3dOSOn9Am7ymdNJ1l4G4="
+          "Value": "sha256-ebaQXR5pfpkeBY7gM5ArQS4pcXy8790Wiw30Z0OdbkI="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\bebbbb5d38-b8yt6kz56a.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\bebbbb5d38-fcn15wsgf5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002079002079"
+          "Quality": "0.002016129032"
         }
       ],
       "ResponseHeaders": [
@@ -71897,15 +71897,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "480"
+          "Value": "495"
         },
         {
           "Name": "ETag",
-          "Value": "\"Y37P0tWKOT5pWi9H5fROONS3dOSOn9Am7ymdNJ1l4G4=\""
+          "Value": "\"ebaQXR5pfpkeBY7gM5ArQS4pcXy8790Wiw30Z0OdbkI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:24:45 GMT"
+          "Value": "Wed, 02 Jul 2025 10:21:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71925,13 +71925,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"i1hIWJ53Q4VcIbtEf+fEkuKPexbrDpWb0GckhB5j8Bc=\""
+          "Value": "W/\"kW498FDUfFnIRaQOvctieY+KSF2ZIIB5IT92athbo6Y=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-i1hIWJ53Q4VcIbtEf+fEkuKPexbrDpWb0GckhB5j8Bc="
+          "Value": "sha256-kW498FDUfFnIRaQOvctieY+KSF2ZIIB5IT92athbo6Y="
         }
       ]
     },
@@ -71946,7 +71946,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "987"
+          "Value": "940"
         },
         {
           "Name": "Content-Type",
@@ -71954,11 +71954,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"i1hIWJ53Q4VcIbtEf+fEkuKPexbrDpWb0GckhB5j8Bc=\""
+          "Value": "\"kW498FDUfFnIRaQOvctieY+KSF2ZIIB5IT92athbo6Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:24:45 GMT"
+          "Value": "Wed, 02 Jul 2025 10:21:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71968,13 +71968,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-i1hIWJ53Q4VcIbtEf+fEkuKPexbrDpWb0GckhB5j8Bc="
+          "Value": "sha256-kW498FDUfFnIRaQOvctieY+KSF2ZIIB5IT92athbo6Y="
         }
       ]
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\bebbbb5d38-b8yt6kz56a.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\obj\\Debug\\net9.0\\compressed\\bebbbb5d38-fcn15wsgf5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71983,7 +71983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "480"
+          "Value": "495"
         },
         {
           "Name": "Content-Type",
@@ -71991,11 +71991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Y37P0tWKOT5pWi9H5fROONS3dOSOn9Am7ymdNJ1l4G4=\""
+          "Value": "\"ebaQXR5pfpkeBY7gM5ArQS4pcXy8790Wiw30Z0OdbkI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Jul 2025 22:24:45 GMT"
+          "Value": "Wed, 02 Jul 2025 10:21:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72013,7 +72013,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Y37P0tWKOT5pWi9H5fROONS3dOSOn9Am7ymdNJ1l4G4="
+          "Value": "sha256-ebaQXR5pfpkeBY7gM5ArQS4pcXy8790Wiw30Z0OdbkI="
         }
       ]
     },
