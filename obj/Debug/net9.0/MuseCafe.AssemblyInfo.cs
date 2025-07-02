@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MuseCafe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9dd4674d52c763368ea6a3e6f0b85d1183818f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0019a9e4439abcbd8a24dfeffb40f7ec54e4d6ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("MuseCafe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MuseCafe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
