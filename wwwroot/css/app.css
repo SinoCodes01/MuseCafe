@@ -16,7 +16,7 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-color: #f9f9f9;
+    background-color: #FFFFFF; /* White background for contrast */
     color: #333;
     overflow-x: hidden;
 }
@@ -28,7 +28,7 @@ header {
     left: 0;
     width: 100%;
     background-color: transparent;
-    color: #fff;
+    color: #ffffff;
     padding: 1rem 2rem;
     z-index: 10;
     text-align: center;
@@ -58,6 +58,7 @@ nav ul li a {
     color: #fff;
     text-decoration: none;
     font-weight: 500;
+    font-size: 1.5rem;
     transition: color 0.3s ease;
 }
 
@@ -68,7 +69,7 @@ nav ul li a:hover {
 /* HERO SECTION - BACKGROUND IMAGE ONLY */
 .hero {
     position: relative;
-    background: url('/img/Flame Grilled.jpg') center center/cover no-repeat;
+    background: url('/img/Flame Grilled.jpg') center 15%/cover no-repeat;
     height: 50vh;
     width: 100%;
     margin: 0;
@@ -76,6 +77,25 @@ nav ul li a:hover {
     padding: 0;
     max-width: none;
 }
+
+/* Overlay to darken background slightly */
+.hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.38); /* Adjust opacity here */
+    z-index: 1;
+}
+
+/* Ensure hero content appears above the overlay */
+.hero > * {
+    position: relative;
+    z-index: 2;
+}
+
 
 /* General Section Styling */
 section:not(.hero) {
@@ -94,7 +114,7 @@ section:not(.hero) {
 
 /* Individual Menu Item Card */
 .menu-item {
-    background-color: #fff;
+    background-color: #FFFFFF; /* White background for contrast */
     padding: 1.5rem;
     border-radius: 1rem;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
@@ -115,6 +135,15 @@ section:not(.hero) {
 .menu-item p {
     font-size: 0.95rem;
     color: #666;
+}
+
+.menu-img {
+    width: 100%;
+    height: auto;
+    max-height: 180px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin-bottom: 1rem;
 }
 
 /* Responsive Adjustments */
@@ -153,4 +182,22 @@ section:not(.hero) {
     .menu-item p {
         font-size: 0.85rem;
     }
+
+    /*Hide Unhandled error message */
+    #blazor-error-ui {
+    display: none;
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 1000;
+    text-align: center;
+}
+
+#blazor-error-ui.visible {
+    display: block;
+}
+
 }

@@ -17,6 +17,18 @@
       "PackagePath": "staticwebassets\\img\\Flame Grilled.jpg"
     },
     {
+      "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\img\\Meal1.jpg",
+      "PackagePath": "staticwebassets\\img\\Meal1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\img\\Meal2.jpg",
+      "PackagePath": "staticwebassets\\img\\Meal2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\img\\Meal3.jpg",
+      "PackagePath": "staticwebassets\\img\\Meal3.jpg"
+    },
+    {
       "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
