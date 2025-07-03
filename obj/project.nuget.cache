@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Dfdnqr3Q5rg=",
+  "dgSpecHash": "9xTLOgdkq3A=",
   "success": true,
   "projectFilePath": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\MuseCafe.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ngqaz\\.nuget\\packages\\blazor.bootstrap\\3.4.0\\blazor.bootstrap.3.4.0.nupkg.sha512",
     "C:\\Users\\ngqaz\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.0\\microsoft.aspnetcore.authorization.9.0.0.nupkg.sha512",
     "C:\\Users\\ngqaz\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.0\\microsoft.aspnetcore.components.9.0.0.nupkg.sha512",
     "C:\\Users\\ngqaz\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\9.0.0\\microsoft.aspnetcore.components.analyzers.9.0.0.nupkg.sha512",

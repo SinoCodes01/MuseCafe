@@ -1,4 +1,8 @@
 /* MENU GRID & CARDS */
+#menu.section[b-gz1qiwdgtz] {
+  padding: 4rem 1rem;
+  text-align: center;
+}
 .menu-grid[b-gz1qiwdgtz] {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -9,13 +13,13 @@
   background-color: var(--color-white);
   padding: 1.5rem;
   border-radius: var(--radius);
-  box-shadow: 0 4px 10px rgba(255, 0, 0, 1.5);
+  box-shadow: #000000;
   text-align: center;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 .menu-item:hover[b-gz1qiwdgtz] {
   transform: translateY(-5px);
-  box-shadow: 0 6px 20px rgba(255, 0, 0, 1.5);
+  box-shadow: #000000;
 }
 .menu-item h3[b-gz1qiwdgtz] {
   margin-bottom: 0.5rem;

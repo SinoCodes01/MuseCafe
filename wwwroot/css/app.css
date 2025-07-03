@@ -35,7 +35,7 @@ html {
 body {
   font-family: var(--font-base);
   line-height: var(--line-height);
-  background-color: var(--color-bg);
+  background: linear-gradient(90deg,rgba(0, 0, 0, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(237, 230, 230, 1) 100%);
   color: var(--color-text);
 }
 
@@ -76,7 +76,7 @@ img {
   max-width: 1200px;
 }
 
-/* GLOBAL SECTION STYLING (EXCEPT HERO) */
+/* GLOBAL SECTION STYLING */
 section:not(.hero) {
   padding: var(--spacing-md);
   margin: 0 auto;

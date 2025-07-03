@@ -1,8 +1,9 @@
 {
   "mainAssemblyName": "MuseCafe",
   "resources": {
-    "hash": "sha256-sP794uJ1l2cdc3t17gSIcrUr0Bm5WnXFuLw1DVrvStQ=",
+    "hash": "sha256-ZN6PVv+xpJlEY2uOsychzuZsW6cteRDc4NugCwrLzQg=",
     "fingerprinting": {
+      "BlazorBootstrap.ym6tnrklwx.wasm": "BlazorBootstrap.wasm",
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Forms.thhw8cz9wu.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -201,8 +202,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "MuseCafe.7sgrw3490e.wasm": "MuseCafe.wasm",
-      "MuseCafe.i76snqy9o2.pdb": "MuseCafe.pdb"
+      "MuseCafe.asq3vcs1s4.wasm": "MuseCafe.wasm",
+      "MuseCafe.dbo9peidwp.pdb": "MuseCafe.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.rtblh4npr3.js": "sha256-HyBzcYNpT2l19+f1bpjNOa1oFoLe3K4JIQ6GsFK5m6I="
@@ -223,6 +224,7 @@
       "System.Private.CoreLib.fk089ohxy8.wasm": "sha256-3w3kRfKPH1QdD/KZ69pXxig13Aan9AlVD/FAJau8fC0="
     },
     "assembly": {
+      "BlazorBootstrap.ym6tnrklwx.wasm": "sha256-JvZh7RjGQpT7CC6gfoLZbKPPkhcor/rhKKpkCt/2lfU=",
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "sha256-8hTdrmR59LAJRrDu8LLRlNn641/iWIAjzG1GcCsAhR0=",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "sha256-jTpt9y+Fzn6JeLtdS0PwW+fzVCyw2aJ8kFuDQAMFdcE=",
       "Microsoft.AspNetCore.Components.Forms.thhw8cz9wu.wasm": "sha256-b7dkg8tMPT2fEN10cgvga1DuG4BElomG5PE4E8Bv5B8=",
@@ -412,10 +414,10 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "MuseCafe.7sgrw3490e.wasm": "sha256-txkMwQwfEXMoDOec8VrbwkH9KWeU28drHh6DDJwN838="
+      "MuseCafe.asq3vcs1s4.wasm": "sha256-Wtn8QNw7FfVXLcSp2S+cD4IieyLwjFBisNSdvxA1xxs="
     },
     "pdb": {
-      "MuseCafe.i76snqy9o2.pdb": "sha256-bo02a2dgkCZxudRImWiEtP0UMxTnr4dZMvexeMgPMi0="
+      "MuseCafe.dbo9peidwp.pdb": "sha256-pwtXRZqfRJCPL3Ukzy83gRjEgc9coUx+FYwNcocXWsg="
     }
   },
   "cacheBootResources": true,
