@@ -28,30 +28,6 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ngqaz/OneDrive/Desktop/C\# Exercises/MuseCafe/MuseCafe/Layout/Components/AboutUs.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XENvbXBvbmVudHNcQWJvdXRVcy5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ngqaz/OneDrive/Desktop/C\# Exercises/MuseCafe/MuseCafe/Layout/Components/ContactUs.Razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XENvbXBvbmVudHNcQ29udGFjdFVzLlJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ngqaz/OneDrive/Desktop/C\# Exercises/MuseCafe/MuseCafe/Layout/Components/Footer.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XENvbXBvbmVudHNcRm9vdGVyLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ngqaz/OneDrive/Desktop/C\# Exercises/MuseCafe/MuseCafe/Layout/Components/Header.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XENvbXBvbmVudHNcSGVhZGVyLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ngqaz/OneDrive/Desktop/C\# Exercises/MuseCafe/MuseCafe/Layout/Components/HeroSection.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XENvbXBvbmVudHNcSGVyb1NlY3Rpb24ucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/ngqaz/OneDrive/Desktop/C\# Exercises/MuseCafe/MuseCafe/Layout/Components/MenuSection.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XENvbXBvbmVudHNcTWVudVNlY3Rpb24ucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/ngqaz/OneDrive/Desktop/C\# Exercises/MuseCafe/MuseCafe/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -63,3 +39,27 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/ngqaz/OneDrive/Desktop/C\# Exercises/MuseCafe/MuseCafe/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ngqaz/OneDrive/Desktop/C\# Exercises/MuseCafe/MuseCafe/Layout/Components/AboutUs.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XENvbXBvbmVudHNcQWJvdXRVcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-hokjp68myp
+
+[C:/Users/ngqaz/OneDrive/Desktop/C\# Exercises/MuseCafe/MuseCafe/Layout/Components/ContactUs.Razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XENvbXBvbmVudHNcQ29udGFjdFVzLlJhem9y
+build_metadata.AdditionalFiles.CssScope = b-f7crcbb595
+
+[C:/Users/ngqaz/OneDrive/Desktop/C\# Exercises/MuseCafe/MuseCafe/Layout/Components/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XENvbXBvbmVudHNcRm9vdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-yxdq4b0edz
+
+[C:/Users/ngqaz/OneDrive/Desktop/C\# Exercises/MuseCafe/MuseCafe/Layout/Components/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XENvbXBvbmVudHNcSGVhZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-d1e2tsg2rb
+
+[C:/Users/ngqaz/OneDrive/Desktop/C\# Exercises/MuseCafe/MuseCafe/Layout/Components/HeroSection.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XENvbXBvbmVudHNcSGVyb1NlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ymubfxuotf
+
+[C:/Users/ngqaz/OneDrive/Desktop/C\# Exercises/MuseCafe/MuseCafe/Layout/Components/MenuSection.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XENvbXBvbmVudHNcTWVudVNlY3Rpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-gz1qiwdgtz
