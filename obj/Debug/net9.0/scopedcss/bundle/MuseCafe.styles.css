@@ -1,35 +1,5 @@
 @import '_content/Blazor.Bootstrap/Blazor.Bootstrap.7t9tbfaemk.bundle.scp.css';
 
-/* /Layout/Components/AboutUs.razor.rz.scp.css */
-.services-banner[b-hokjp68myp] {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    background-color: #fef8f4;
-    padding: 1.5rem 1rem;
-    border-radius: 12px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-    flex-wrap: wrap;
-    gap: 1rem;
-}
-
-.service-item[b-hokjp68myp] {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    font-weight: 600;
-    color: #611111;
-    font-size: 0.95rem;
-    width: 100px;
-}
-
-.service-item img[b-hokjp68myp] {
-    width: 40px;
-    height: 40px;
-    margin-bottom: 0.5rem;
-    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.2));
-}
 /* /Layout/Components/ContactUs.razor.rz.scp.css */
 /* CONTACT SECTION */
 #contact[b-f7crcbb595] {
@@ -501,4 +471,34 @@ header .container[b-d1e2tsg2rb] {
 .btn:hover[b-gz1qiwdgtz] {
   background-color: var(--color-hover);
   transform: scale(1.05);
+}
+/* /Layout/Components/Services.razor.rz.scp.css */
+.services-banner[b-2bz2m1lvtd] {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #fef8f4;
+    padding: 1.5rem 1rem;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.service-item[b-2bz2m1lvtd] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+    color: #611111;
+    font-size: 0.95rem;
+    width: 100px;
+}
+
+.service-item img[b-2bz2m1lvtd] {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 0.5rem;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.2));
 }

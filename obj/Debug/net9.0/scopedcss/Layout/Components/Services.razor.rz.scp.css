@@ -1,4 +1,4 @@
-.services-banner[b-hokjp68myp] {
+.services-banner[b-2bz2m1lvtd] {
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -10,7 +10,7 @@
     gap: 1rem;
 }
 
-.service-item[b-hokjp68myp] {
+.service-item[b-2bz2m1lvtd] {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -21,7 +21,7 @@
     width: 100px;
 }
 
-.service-item img[b-hokjp68myp] {
+.service-item img[b-2bz2m1lvtd] {
     width: 40px;
     height: 40px;
     margin-bottom: 0.5rem;
