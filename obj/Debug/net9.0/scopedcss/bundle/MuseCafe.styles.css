@@ -261,6 +261,11 @@ header .container[b-d1e2tsg2rb] {
 }
 
 /* MAIN NAVIGATION */
+.main-nav[b-d1e2tsg2rb] {
+  display: flex;
+  align-items: center;
+}
+
 .main-nav ul[b-d1e2tsg2rb] {
   list-style: none;
   display: flex;
@@ -287,7 +292,17 @@ header .container[b-d1e2tsg2rb] {
   text-decoration: none;
 }
 
-/* MOBILE LAYOUT */
+/* NAV TOGGLE BUTTON (ONLY VISIBLE ON MOBILE) */
+.nav-toggle[b-d1e2tsg2rb] {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 2rem;
+  color: var(--color-white);
+  cursor: pointer;
+}
+
+/* RESPONSIVE DROPDOWN MENU */
 @media (max-width: 768px) {
   header[b-d1e2tsg2rb] {
     padding: 0.5rem 1rem;
@@ -302,15 +317,38 @@ header .container[b-d1e2tsg2rb] {
     text-align: left;
   }
 
+  .nav-toggle[b-d1e2tsg2rb] {
+    display: block;
+    z-index: 1001;
+  }
+
+  .main-nav[b-d1e2tsg2rb] {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background-color: rgba(20, 20, 20, 0.95);
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem 0;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .main-nav.open[b-d1e2tsg2rb] {
+    display: flex;
+  }
+
   .main-nav ul[b-d1e2tsg2rb] {
-    justify-content: center;
-    gap: 0.75rem;
-    margin-top: 0.3rem;
+    flex-direction: column;
+    gap: 1rem;
   }
 
   .main-nav a[b-d1e2tsg2rb] {
-    font-size: 0.95rem;
-    padding: 0.5rem;
+    font-size: 1.1rem;
+    padding: 0.75rem 1rem;
+    width: 100%;
+    text-align: center;
   }
 }
 /* /Layout/Components/HeroSection.razor.rz.scp.css */
@@ -444,4 +482,23 @@ header .container[b-d1e2tsg2rb] {
   font-size: 0.95rem;
   color: var(--color-text-light);
   line-height: 1.5;
+}
+
+/* CALL-TO-ACTION BUTTON */
+.btn[b-gz1qiwdgtz] {
+  display: inline-block;
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  padding: 0.8rem 1.75rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  border-radius: 2rem;
+  text-decoration: none;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
+}
+
+.btn:hover[b-gz1qiwdgtz] {
+  background-color: var(--color-hover);
+  transform: scale(1.05);
 }

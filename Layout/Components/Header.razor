@@ -6,11 +6,28 @@
     <div class="header-text">
       <h2>The Muse Café & Tshisanyama</h2>
     </div>
-    <nav class="main-nav">
-      <ul>
-        <li><a href="#menu">Menu</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-    </nav>
-  </div>
+
+    <!-- Mobile Nav Toggle -->
+        <button class="nav-toggle" @onclick="ToggleMenu">
+            <span>&#9776;</span>
+        </button>
+
+        <!-- Navigation Links -->
+        <nav class="main-nav @(isMenuOpen ? "open" : "")">
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="#menu">Menu</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
 </header>
+
+@code {
+    private bool isMenuOpen = false;
+
+    private void ToggleMenu()
+    {
+        isMenuOpen = !isMenuOpen;
+    }
+}

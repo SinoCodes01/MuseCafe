@@ -1056,8 +1056,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>fekt5fnyw2</Fingerprint>
-      <Integrity>h72L48PFj2A7AoMCB1EAMnVB21zvMqQUQPGYp3MumU0=</Integrity>
+      <Fingerprint>6ry8cvryqp</Fingerprint>
+      <Integrity>DgYD/d0teNeWksfNumtJh3eKX+dqXv3+ar1OYGJHnlg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MuseCafe.styles.css'))</OriginalItemSpec>
