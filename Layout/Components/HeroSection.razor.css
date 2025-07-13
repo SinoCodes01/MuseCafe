@@ -1,64 +1,73 @@
+/* HERO SECTION */
 .hero {
   position: relative;
-  background: url('/img/Flame Grilled.jpg') center 5%/cover no-repeat;
-  height: 50vh;
+  background: url('/img/Flame Grilled.jpg') center 5% / cover no-repeat;
+  height: 85vh;
   width: 100%;
   overflow: hidden;
   margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-/* Dark overlay over the image */
+/* DARK OVERLAY */
 .hero::before {
   content: "";
   position: absolute;
   inset: 0;
-  background-color: rgba(6, 6, 6, 0.4);
+  background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.5), rgba(70, 20, 20, 0.4));
   z-index: 1;
 }
 
-/* Ensure content is above overlays */
+/* LIFT CONTENT ABOVE OVERLAY */
 .hero > * {
   position: relative;
-  z-index: 3;
+  z-index: 2;
 }
 
+/* HERO CONTENT WRAPPER */
 .hero-content {
   text-align: center;
   color: var(--color-white);
-  padding: 6rem 1rem;
+  padding: var(--spacing-lg) var(--spacing-sm);
   max-width: 800px;
   margin: 0 auto;
-  opacity: 1;
 }
 
+/* HEADLINE */
 .hero-content h2 {
-  font-size: 3rem;
-  margin-bottom: 1rem;
+  font-size: 2.75rem;
+  margin-bottom: var(--spacing-sm);
   color: var(--color-white);
   font-weight: 700;
-  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+  letter-spacing: 1px;
+  text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.6);
 }
 
+/* DESCRIPTION */
 .hero-content p {
-  font-size: 1.25rem;
-  margin-bottom: 2rem;
-  color: #f0f0f0;
-  text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.4);
+  font-size: 1.2rem;
+  margin-bottom: var(--spacing-md);
+  color: #f8f8f8;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
 }
 
+/* CALL-TO-ACTION BUTTON */
 .hero-content .btn {
   display: inline-block;
   background-color: var(--color-primary);
   color: var(--color-white);
-  padding: 0.75rem 1.5rem;
-  font-size: 1rem;
-  border-radius: 30px;
+  padding: 0.8rem 1.75rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  border-radius: 2rem;
   text-decoration: none;
   transition: background-color 0.3s ease, transform 0.2s ease;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
 }
 
 .hero-content .btn:hover {
-  background-color: var(--color-primary);
+  background-color: var(--color-hover);
   transform: scale(1.05);
 }

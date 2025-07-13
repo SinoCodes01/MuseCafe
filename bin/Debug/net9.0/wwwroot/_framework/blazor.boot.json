@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MuseCafe",
   "resources": {
-    "hash": "sha256-ZN6PVv+xpJlEY2uOsychzuZsW6cteRDc4NugCwrLzQg=",
+    "hash": "sha256-3aOLawVrmwSaNH/sIhMCUYMs3mv33hsv+0UUvC4FSEY=",
     "fingerprinting": {
       "BlazorBootstrap.ym6tnrklwx.wasm": "BlazorBootstrap.wasm",
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
@@ -202,8 +202,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "MuseCafe.asq3vcs1s4.wasm": "MuseCafe.wasm",
-      "MuseCafe.dbo9peidwp.pdb": "MuseCafe.pdb"
+      "MuseCafe.ah3nwomc02.wasm": "MuseCafe.wasm",
+      "MuseCafe.t5aibn3s6y.pdb": "MuseCafe.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.rtblh4npr3.js": "sha256-HyBzcYNpT2l19+f1bpjNOa1oFoLe3K4JIQ6GsFK5m6I="
@@ -414,10 +414,10 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "MuseCafe.asq3vcs1s4.wasm": "sha256-Wtn8QNw7FfVXLcSp2S+cD4IieyLwjFBisNSdvxA1xxs="
+      "MuseCafe.ah3nwomc02.wasm": "sha256-oq4tqyZWuWW7OOOHKlIOwiWmjecGipV85/nzuo9plMo="
     },
     "pdb": {
-      "MuseCafe.dbo9peidwp.pdb": "sha256-pwtXRZqfRJCPL3Ukzy83gRjEgc9coUx+FYwNcocXWsg="
+      "MuseCafe.t5aibn3s6y.pdb": "sha256-DyX6codw1H3Nh8vhPriIG3afCX2P0hZb5GqY0TOvCxc="
     }
   },
   "cacheBootResources": true,

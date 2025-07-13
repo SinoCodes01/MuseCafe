@@ -17,6 +17,18 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
+      "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\icons\\braai-icon.png",
+      "PackagePath": "staticwebassets\\icons\\braai-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\icons\\butchery-icon.png",
+      "PackagePath": "staticwebassets\\icons\\butchery-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\icons\\event-icon.png",
+      "PackagePath": "staticwebassets\\icons\\event-icon.png"
+    },
+    {
       "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\img\\Braai.png",
       "PackagePath": "staticwebassets\\img\\Braai.png"
     },
