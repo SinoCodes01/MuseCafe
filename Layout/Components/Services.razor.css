@@ -27,3 +27,8 @@
     margin-bottom: 0.5rem;
     filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.2));
 }
+
+.service-item:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 6px 16px rgba(162, 45, 30, 0.458);
+}

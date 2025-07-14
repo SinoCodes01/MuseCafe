@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\icons\\event-icon.png"
     },
     {
+      "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\icons\\hookah-icon.png",
+      "PackagePath": "staticwebassets\\icons\\hookah-icon.png"
+    },
+    {
       "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\img\\Braai.png",
       "PackagePath": "staticwebassets\\img\\Braai.png"
     },
