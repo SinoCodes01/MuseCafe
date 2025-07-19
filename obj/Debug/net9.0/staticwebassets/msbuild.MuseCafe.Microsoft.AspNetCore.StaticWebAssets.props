@@ -162,6 +162,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Hookah Bar.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Hosted.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MuseCafe</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>/</BasePath>
+      <RelativePath>img/Hosted.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>li3tnak2kk</Fingerprint>
+      <Integrity>86n1lMsPvpDwSx8FD7pcEp3Hf3u3meBy+2PehRf/0EQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Hosted.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\Meal1.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>MuseCafe</SourceId>
@@ -246,8 +264,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>n56u3t1skb</Fingerprint>
-      <Integrity>Vf6qCa6Ro6HFCVUbkLgMUxSF57vXouBOAJ2rm/9zxiM=</Integrity>
+      <Fingerprint>e4j8rundwp</Fingerprint>
+      <Integrity>zvWA9wz4O0IG1IP/A0J8rK1Rr8vEdGQtvcn26nflmN8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
@@ -1074,8 +1092,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>zfx8w8ydwd</Fingerprint>
-      <Integrity>T/tcC8PuNfhW3/fLPnxWt2F5hFny68KpksOcDT4l6WM=</Integrity>
+      <Fingerprint>e0w378uat9</Fingerprint>
+      <Integrity>zqt+HTB0qkRk5e6Y9t9AbvM+Ad6Yl5gpkA90yr3P8Gw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MuseCafe.styles.css'))</OriginalItemSpec>

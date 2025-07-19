@@ -5,9 +5,10 @@
     background-color: #fef8f4;
     padding: 1.5rem 1rem;
     border-radius: 12px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    box-shadow:none;
     flex-wrap: wrap;
     gap: 1rem;
+    text-align: center;
 }
 
 .service-item {
@@ -19,6 +20,7 @@
     color: #611111;
     font-size: 0.95rem;
     width: 100px;
+    border-radius: 12px;
 }
 
 .service-item img {
@@ -26,9 +28,4 @@
     height: 40px;
     margin-bottom: 0.5rem;
     filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.2));
-}
-
-.service-item:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 6px 16px rgba(162, 45, 30, 0.458);
 }

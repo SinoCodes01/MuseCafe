@@ -1,0 +1,145 @@
+.booking-section {
+  background-color: var(--color-bg);
+  margin-top: 5rem;
+  padding: var(--spacing-lg) var(--spacing-sm);
+}
+
+.booking-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-lg);
+  align-items: center;
+}
+
+.booking-image {
+  flex: 1 1 40%;
+  height: 300px;
+  background-color: #e0e0e0;
+  border-radius: var(--radius);
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+  color: var(--color-text-light);
+  font-size: 1.25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.contact-details {
+  flex: 1 1 55%;
+}
+
+.contact-details h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: var(--spacing-xs);
+}
+
+.contact-intro {
+  color: var(--color-text-dark);
+  margin-bottom: var(--spacing-md);
+}
+
+.contact-info p {
+  margin-bottom: var(--spacing-xs);
+  color: var(--color-text);
+}
+
+.contact-info a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.contact-info a:hover {
+  color: var(--color-hover);
+  text-decoration: underline;
+}
+
+.opening-hours {
+  margin-top: var(--spacing-md);
+}
+
+.opening-hours h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--color-primary);
+  margin-bottom: var(--spacing-xs);
+}
+
+.opening-hours ul {
+  list-style: none;
+  padding-left: 0;
+  color: var(--color-text-light);
+}
+
+.opening-hours li {
+  margin-bottom: var(--spacing-xs);
+}
+
+.social-media {
+  margin-top: var(--spacing-md);
+  font-size: 1.8rem;
+  display: flex;
+  gap: var(--spacing-sm);
+  color: var(--color-text-light);
+}
+
+.social-media a {
+  color: inherit;
+  transition: color 0.3s ease;
+}
+
+.social-media a:hover {
+  color: var(--color-hover);
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .booking-container {
+    flex-direction: column;
+    gap: var(--spacing-md);
+    text-align: center;
+  }
+
+  .booking-image,
+  .contact-details {
+    flex: 1 1 100%;
+  }
+
+  .booking-image {
+    height: 250px;
+    font-size: 1.1rem;
+  }
+
+  .contact-details h2 {
+    font-size: 1.75rem;
+  }
+
+  .social-media {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .booking-image {
+    height: 200px;
+    font-size: 1rem;
+  }
+
+  .contact-details h2 {
+    font-size: 1.5rem;
+  }
+
+  .opening-hours h3 {
+    font-size: 1rem;
+  }
+
+  .social-media {
+    font-size: 1.5rem;
+    gap: var(--spacing-xs);
+  }
+}
