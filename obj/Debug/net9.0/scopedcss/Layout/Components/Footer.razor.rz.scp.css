@@ -6,3 +6,7 @@ footer[b-yxdq4b0edz] {
   text-align: center;
   margin-top: var(--spacing-md);
 }
+
+footer p[b-yxdq4b0edz]{
+  color: var(--color-white);
+}

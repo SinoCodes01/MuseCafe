@@ -1,3 +1,43 @@
+/* /Layout/Components/AboutUs.razor.rz.scp.css */
+.about-section[b-hokjp68myp]{
+    padding: var(--spacing-lg) var(--spacing-sm);
+    text-align: center;
+    background-color: var(--color-bg);
+}
+
+.about-container[b-hokjp68myp] {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-lg);
+  align-items: center;
+}
+
+.about-content[b-hokjp68myp] {
+  margin-bottom: var(--spacing-xs);
+  color: var(--color-text);
+  text-align: center;
+}
+
+.cuisine-image[b-hokjp68myp] {
+  flex: 1 1 40%;
+  height: 300px;
+  background-color: var(--color-bg);
+  border-radius: var(--radius);
+  color: var(--color-text);
+  font-size: 1.25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.cuisine-content[b-hokjp68myp] {
+ flex: 1 1 55%;
+ color: black;
+ text-align: justify;
+}
 /* /Layout/Components/Booking.razor.rz.scp.css */
 .booking-section[b-g9hw74k0g7] {
   background-color: var(--color-bg);
@@ -152,6 +192,10 @@ footer[b-yxdq4b0edz] {
   padding: var(--spacing-sm) var(--spacing-md);
   text-align: center;
   margin-top: var(--spacing-md);
+}
+
+footer p[b-yxdq4b0edz]{
+  color: var(--color-white);
 }
 /* /Layout/Components/FullMenu.razor.rz.scp.css */
 .menu-wrapper[b-0nwqwz3scm] {
@@ -443,59 +487,9 @@ header .container[b-d1e2tsg2rb] {
 }
 /* /Layout/Components/MenuSection.razor.rz.scp.css */
 
-.intro-section[b-gz1qiwdgtz],
-.experience-section[b-gz1qiwdgtz],
-.final-note[b-gz1qiwdgtz] {
-    padding: 3rem 1rem;
-    background-color: #fdfaf5;
-    color: #3e1f1f;
-    text-align: center;
-}
-
 .container[b-gz1qiwdgtz] {
     max-width: 1100px;
     margin: 0 auto;
-}
-
-h2[b-gz1qiwdgtz] {
-    font-size: 2rem;
-    margin-bottom: 1.2rem;
-    color: #800000;
-}
-
-.experience-grid[b-gz1qiwdgtz] {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 2rem;
-    margin-top: 2rem;
-}
-
-.experience-card[b-gz1qiwdgtz] {
-    background: white;
-    border-radius: 12px;
-    overflow: hidden;
-    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
-    transition: transform 0.3s;
-}
-
-.experience-card:hover[b-gz1qiwdgtz] {
-    transform: translateY(-5px);
-}
-
-.experience-card img[b-gz1qiwdgtz] {
-    width: 100%;
-    height: 180px;
-    object-fit: cover;
-}
-
-.experience-card h3[b-gz1qiwdgtz] {
-    margin: 1rem;
-    font-size: 1.2rem;
-    color: #800000;
-}
-
-.experience-card p[b-gz1qiwdgtz] {
-    padding: 0 1rem 1.5rem;
 }
 
 #menu.section[b-gz1qiwdgtz] {

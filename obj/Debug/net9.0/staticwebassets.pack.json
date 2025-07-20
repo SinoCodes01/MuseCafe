@@ -33,20 +33,8 @@
       "PackagePath": "staticwebassets\\icons\\hookah-icon.png"
     },
     {
-      "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\img\\Braai.png",
-      "PackagePath": "staticwebassets\\img\\Braai.png"
-    },
-    {
-      "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\img\\Butchery.png",
-      "PackagePath": "staticwebassets\\img\\Butchery.png"
-    },
-    {
       "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\img\\Flame Grilled.jpg",
       "PackagePath": "staticwebassets\\img\\Flame Grilled.jpg"
-    },
-    {
-      "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\img\\Hookah Bar.png",
-      "PackagePath": "staticwebassets\\img\\Hookah Bar.png"
     },
     {
       "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\img\\Hosted.jpg",
@@ -65,8 +53,12 @@
       "PackagePath": "staticwebassets\\img\\Meal3.jpg"
     },
     {
-      "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\img\\Venue.jpg",
-      "PackagePath": "staticwebassets\\img\\Venue.jpg"
+      "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\img\\booking.jpg",
+      "PackagePath": "staticwebassets\\img\\booking.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\img\\cuisine.jpg",
+      "PackagePath": "staticwebassets\\img\\cuisine.jpg"
     },
     {
       "Id": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\MuseCafe\\MuseCafe\\wwwroot\\index.html",
