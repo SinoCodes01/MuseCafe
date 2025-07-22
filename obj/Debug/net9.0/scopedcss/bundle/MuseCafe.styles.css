@@ -564,7 +564,7 @@ header .container[b-d1e2tsg2rb] {
   transform: scale(1.05);
 }
 
-.price[b-gz1qiwdgtz] {
+.menu-item .price[b-gz1qiwdgtz] {
   font-size: 1.1rem;
   color: var(--color-primary);
   font-weight: bold;
