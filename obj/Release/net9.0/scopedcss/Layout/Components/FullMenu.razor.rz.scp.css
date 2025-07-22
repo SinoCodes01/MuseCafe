@@ -1,0 +1,64 @@
+.menu-wrapper[b-0nwqwz3scm] {
+    background: url('/img/Flame Grilled.jpg') center center / cover no-repeat fixed;
+    color: var(--color-text);
+    padding: var(--spacing-lg) var(--spacing-sm);
+    text-align: center;
+    min-height: 100vh; /* Full viewport height */
+    width: 100%;
+    position: relative;
+}
+
+
+.menu-wrapper h2[b-0nwqwz3scm] {
+    font-size: 2.2rem;
+    color: var(--color-primary);
+    margin-bottom: var(--spacing-md);
+}
+
+.menu-columns[b-0nwqwz3scm] {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-md);
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.menu-section[b-0nwqwz3scm] {
+    flex: 1 1 340px;
+    max-width: 500px;
+    text-align: left;
+    background: #fff;
+    padding: var(--spacing-md);
+    border-radius: var(--radius);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.menu-section h3[b-0nwqwz3scm] {
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
+    color: var(--color-primary);
+}
+
+.menu-section h4[b-0nwqwz3scm] {
+    font-size: 1.25rem;
+    margin: 1rem 0 0.5rem;
+    color: var(--color-primary);
+}
+
+.menu-section ul[b-0nwqwz3scm] {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 1rem;
+}
+
+.menu-section ul li[b-0nwqwz3scm] {
+    font-size: 1rem;
+    margin-bottom: 0.4rem;
+    color: var(--color-text-light);
+}
+
+.menu-section p[b-0nwqwz3scm] {
+    font-size: 1rem;
+    color: var(--color-text-light);
+    margin-bottom: 1rem;
+}

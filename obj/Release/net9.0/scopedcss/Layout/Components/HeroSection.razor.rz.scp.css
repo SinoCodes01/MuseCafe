@@ -1,0 +1,73 @@
+/* HERO SECTION */
+.hero[b-ymubfxuotf] {
+  position: relative;
+  background: url('/img/Flame Grilled.jpg') center 5% / cover no-repeat;
+  height: 75vh;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* DARK OVERLAY */
+.hero[b-ymubfxuotf]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.5), rgba(70, 20, 20, 0.4));
+  z-index: 1;
+}
+
+/* LIFT CONTENT ABOVE OVERLAY */
+.hero > *[b-ymubfxuotf] {
+  position: relative;
+  z-index: 2;
+}
+
+/* HERO CONTENT WRAPPER */
+.hero-content[b-ymubfxuotf] {
+  text-align: center;
+  color: var(--color-white);
+  padding: var(--spacing-lg) var(--spacing-sm);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* HEADLINE */
+.hero-content h2[b-ymubfxuotf] {
+  font-size: 2.75rem;
+  margin-bottom: var(--spacing-sm);
+  color: var(--color-white);
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.6);
+}
+
+/* DESCRIPTION */
+.hero-content p[b-ymubfxuotf] {
+  font-size: 1.2rem;
+  margin-bottom: var(--spacing-md);
+  color: #f8f8f8;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+/* CALL-TO-ACTION BUTTON */
+.hero-content .btn[b-ymubfxuotf] {
+  display: inline-block;
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  padding: 0.8rem 1.75rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+  border-radius: 2rem;
+  text-decoration: none;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
+}
+
+.hero-content .btn:hover[b-ymubfxuotf] {
+  background-color: var(--color-hover);
+  transform: scale(1.05);
+}
